@@ -8,7 +8,7 @@ I specialize in turning ideas into reality using the following skills:
 - **Database Management:** Skilled in SQL for effective data manipulation and database querying.
 - **Web Development:** Familiar with front-end technologies (HTML, CSS) and back-end frameworks (SpringBoot).
   
-- 🚀 Let's Collaborate!
+### 🤝 Let's Collaborate!
   
 - 🌐 Building Websites
 If you're interested in building your own website or have a cool web project in mind, I'm eager to collaborate! Whether it's a personal site, portfolio, or a web app, let's bring your ideas to life.
@@ -16,14 +16,16 @@ If you're interested in building your own website or have a cool web project in 
 - 📊 Data Analytics Side Projects
 Passionate about data analytics? Looking to dive into a side project? I'm open to collaborating on data-driven projects. Whether it's exploring datasets, creating visualizations, or deriving insights, let's make it happen.
 
-- 🌱 I’m currently learning **Django, React**
+### 📄 More about me :
+
+- 🌱 I’m currently learning **Building website by myself with Django and React**
 
 - 💬 Ask me about **everything!I'm always eager to exchange experiences with others.**
 
 - 📬 Get in Touch
-Feel free to reach out if you're interested or have any questions. I'm open to discussions, brainstorming, and making awesome things together.
+**Feel free to reach out if you're interested or have any questions. I'm open to discussions, brainstorming, and making awesome things together.**
 
-- 📫 How to reach me **cindyunii0513@gmail.com**
+- 📫 Reach me via email : **cindyunii0513@gmail.com**
 
 - ⚡ Fun fact **I wasn't a fan of coding before entering my junior year.**
 
