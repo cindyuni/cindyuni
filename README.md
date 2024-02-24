@@ -6,7 +6,7 @@ I specialize in turning ideas into reality using the following skills:
 
 - **Programming:** Proficient in Python, with a focus on data analysis and data visualization.
 - **Database Management:** Skilled in SQL for effective data manipulation and database querying.
-- **Web Development:** Familiar with front-end technologies (HTML, CSS) and back-end frameworks (SpringBoot).
+- **Web Development:** Familiar with front-end technologies (HTML, CSS, JS), front-end frameworks (Angular, Vue.js) and back-end frameworks (SpringBoot).
   
 ### 🤝 Let's Collaborate!
   
