@@ -18,7 +18,7 @@ Passionate about data analytics? Looking to dive into a side project? I'm open t
 
 ### 📄 More about me :
 
-- 🌱 I’m currently learning **Building website by myself with Django and React**
+- 🌱 I’m currently working on **data visualization projects and strengthening my SQL skills**
 
 - 💬 Ask me about **everything!I'm always eager to exchange experiences with others.**
 
@@ -27,7 +27,7 @@ Passionate about data analytics? Looking to dive into a side project? I'm open t
 
 - 📫 Reach me via email : **cindyunii0513@gmail.com**
 
-- ⚡ Fun fact **I wasn't a fan of coding before entering my junior year.**
+- ⚡ Fun fact **I thought I’d never get into coding —** It wasn’t until my junior year of college that I started to understand its charm — and that’s when I fell in love with it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
