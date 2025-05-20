@@ -26,10 +26,6 @@
 
 
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cindyuni&show_icons=true&locale=en&layout=compact" alt="cindyuni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindyuni&show_icons=true&locale=en" alt="cindyuni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cindyuni&" alt="cindyuni" /></p>
