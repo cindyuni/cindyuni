@@ -21,6 +21,13 @@
   <li>Data Visualization tools: Excel, Google Sheets, Tableau</li>
 </ul>
 
+<h3>Cindy's Portfolio</h3>
+
+  - [SQL](https://github.com/cindyuni/SQL) - A collection of SQL practice projects and exercises.  
+  - [Tableau](https://github.com/cindyuni/Tableau) - A collection of Tableau side projects.
+  - Python
+
+
 <p>📫 Let’s connect! Find me on <a href="https://www.linkedin.com/in/cindychang" target="_blank">LinkedIn</a></p>
 
 
