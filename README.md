@@ -25,6 +25,7 @@
 
   - [SQL](https://github.com/cindyuni/SQL) - A collection of SQL practice projects and exercises.  
   - [Tableau](https://github.com/cindyuni/Tableau) - A collection of Tableau side projects.
+  - [PowerBI](https://github.com/cindyuni/Microsoft-Power-BI-Data-Analyst) - The Microsoft Power BI Data Analyst Professional Certificate program .
   - Python
 
 
